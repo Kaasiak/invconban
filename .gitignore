@@ -1,12 +1,9 @@
 .DS_Store
-data/*
-!data/.keep
-!data/icb-syntdata/.keep
-res/*
-!res/.keep
-!res/optimistic/.keep
-!res/greedy/.keep
-!res/figures/.keep
+data/icb-syntdata/*.obj
+res/greedy/*.obj
+res/optimistic/*.obj
+res/figures/*.pdf
+res/*.obj
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
